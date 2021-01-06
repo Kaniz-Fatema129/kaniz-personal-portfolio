@@ -50,7 +50,7 @@ h1{
     text-transform: uppercase;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 1px;
     padding: 0px;
     margin: 0px;
@@ -134,5 +134,11 @@ h2{
 }
 .img{
     width: 50px;
+}
+.copy{
+    text-align: center;
+    color: green;
+    font-size: 18px;
+    font-weight: 500;
 }
 
