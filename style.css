@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+img{
+    width: 100%;
+}
+.navbar{
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+.navbar ul{
+    float: right;
+    list-style: none;
+}
+.navbar ul li{
+    float: left;
+    margin-left: 30px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    color: black;
+    font-weight: 700;
+}
+
+.clear{
+    clear: both;
+}
+
+.width-50{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 0% 2%;
+}
+.width-30{
+    float: left;
+    width: 25%;
+    margin-left: 3.5%;
+}
+h1{
+    font-size: 60px;
+    letter-spacing: 1px;
+    padding: 0px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 40px;
+    letter-spacing: 1px;
+    padding: 0px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.text{
+    font-size: 20px;
+    margin: 8% 0;
+}
+
+.anchor{
+    padding: 15px 25px;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #5e3aff 8%, #0509e0 100%);
+    border: transparent;
+    border-radius: 10px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: white;
+}
+
+.main{
+    margin: 50px;
+}
+.name{
+    color: #1100ff;
+}
+
+#about{
+    margin-top: 150px;
+}
+
+#project-area{
+    position: relative;
+    height: 700px;
+    margin: 150px 0px;
+    padding: 50px;
+    background-color: #ff00f2;
+    text-align: center;
+}
+.project{
+    position: absolute;
+    top: 25%;
+}
+.card{
+    color: #4d4d4d;
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px rgb(24, 1, 100);
+}
+
+
+.wq{
+    margin: auto;
+    height: 300px;
+    width: 1000px;
+    text-align: center;
+    background-size: cover;
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 20px;
+}
+#w-section{
+    margin: 150px 0px;
+}
+.work{
+    margin-top: 12%;
+}
+.work h1{
+    font-size: 50px;
+}
+.latest{
+    color: #0509e0;
+}
+#icon-area{
+    text-align: center;
+    margin: 20px;
+}
+.img{
+    width: 50px;
+}
+
